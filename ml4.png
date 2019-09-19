@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://itmastersmag.com/xmlrpc.php">
+
+<title>Cuatro aplicaciones de IA y Machine Learning en México - IT Masters Mag</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cuatro aplicaciones de IA y Machine Learning en México - IT Masters Mag" />
+<meta property="og:description" content="México invierte poco en ciencia, tecnología e innovación (CTI). ¿Inteligencia artificial? Ni se menciona. El pasado 22 de agosto, el rector de la UNAM, Enrique Graue Wiechers, entregó al presidente electo –Andrés Manuel López Obrador– el documento “Hacia la Consolidación y Desarrollo de Políticas Públicas en Ciencia, Tecnología e Innovación. Objetivo estratégico para una política &hellip;" />
+<meta property="og:url" content="https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/" />
+<meta property="og:site_name" content="IT Masters Mag" />
+<meta property="article:tag" content="BBVA" />
+<meta property="article:tag" content="Hospitales Ángeles" />
+<meta property="article:tag" content="Inteligencia Artificial" />
+<meta property="article:tag" content="machine learning" />
+<meta property="article:tag" content="Metrics" />
+<meta property="article:tag" content="Microsoft" />
+<meta property="article:tag" content="SkyAlert" />
+<meta property="article:tag" content="Watson" />
+<meta property="article:tag" content="Yalo" />
+<meta property="article:section" content="Noticias &amp; Análisis" />
+<meta property="article:published_time" content="2018-09-11T22:17:00+00:00" />
+<meta property="article:modified_time" content="2018-09-14T15:42:21+00:00" />
+<meta property="og:updated_time" content="2018-09-14T15:42:21+00:00" />
+<meta property="og:image" content="https://itmastersmag.com/wp-content/uploads/2018/09/shutterstock_1098841148-e1536703790784.jpg" />
+<meta property="og:image:secure_url" content="https://itmastersmag.com/wp-content/uploads/2018/09/shutterstock_1098841148-e1536703790784.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="755" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="México invierte poco en ciencia, tecnología e innovación (CTI). ¿Inteligencia artificial? Ni se menciona. El pasado 22 de agosto, el rector de la UNAM, Enrique Graue Wiechers, entregó al presidente electo –Andrés Manuel López Obrador– el documento “Hacia la Consolidación y Desarrollo de Políticas Públicas en Ciencia, Tecnología e Innovación. Objetivo estratégico para una política [&hellip;]" />
+<meta name="twitter:title" content="Cuatro aplicaciones de IA y Machine Learning en México - IT Masters Mag" />
+<meta name="twitter:image" content="https://itmastersmag.com/wp-content/uploads/2018/09/shutterstock_1098841148-e1536703790784.jpg" />
+<meta name="twitter:creator" content="@_MarOch" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://itmastersmag.com/#website","url":"https://itmastersmag.com/","name":"IT Masters Mag","potentialAction":{"@type":"SearchAction","target":"https://itmastersmag.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/#primaryimage","url":"https://itmastersmag.com/wp-content/uploads/2018/09/shutterstock_1098841148-e1536703790784.jpg","width":1280,"height":755},{"@type":"WebPage","@id":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/#webpage","url":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/","inLanguage":"es","name":"Cuatro aplicaciones de IA y Machine Learning en M\u00e9xico - IT Masters Mag","isPartOf":{"@id":"https://itmastersmag.com/#website"},"primaryImageOfPage":{"@id":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/#primaryimage"},"datePublished":"2018-09-11T22:17:00+00:00","dateModified":"2018-09-14T15:42:21+00:00","author":{"@id":"https://itmastersmag.com/#/schema/person/843b793f60347a0455fb3be65e903c47"},"breadcrumb":{"@id":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://itmastersmag.com/","url":"https://itmastersmag.com/","name":"Inicio"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/","url":"https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/","name":"Cuatro aplicaciones de IA y Machine Learning en M\u00e9xico"}}]},{"@type":["Person"],"@id":"https://itmastersmag.com/#/schema/person/843b793f60347a0455fb3be65e903c47","name":"Maricela Ochoa","image":{"@type":"ImageObject","@id":"https://itmastersmag.com/#authorlogo","url":"https://itmastersmag.com/wp-content/uploads/2019/02/Para-IT-Masters.jpg","caption":"Maricela Ochoa"},"description":"Reportera de tecnolog\u00eda. Suele buscar temas de innovaci\u00f3n, nuevas aplicaciones IT y seguridad de la informaci\u00f3n. \r\nPeriodista por la UNAM; estudi\u00f3 Marketing en el ITAM y Branding en la Universidad de Bogot\u00e1 Jorge Tadeo Lozano. Storyteller apasionada por la astronom\u00eda.","sameAs":["https://twitter.com/_MarOch"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="IT Masters Mag &raquo; Feed" href="https://itmastersmag.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IT Masters Mag &raquo; RSS de los comentarios" href="https://itmastersmag.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IT Masters Mag &raquo; Cuatro aplicaciones de IA y Machine Learning en México RSS de los comentarios" href="https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/itmastersmag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://itmastersmag.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-weather-css'  href='https://itmastersmag.com/wp-content/plugins/awesome-weather/awesome-weather.css?ver=5.2.2' type='text/css' media='all' />
+<style id='awesome-weather-inline-css' type='text/css'>
+.awesome-weather-wrap { font-family: 'Open Sans', sans-serif;  font-weight: 400; font-size: 14px; line-height: 14px; } 
+</style>
+<link rel='stylesheet' id='opensans-googlefont-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300&#038;ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://itmastersmag.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dw-megamenu-front-end-style-css'  href='https://itmastersmag.com/wp-content/plugins/dw-mega-menu/assets/css/dw-megamenu.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dw-social-share-css'  href='https://itmastersmag.com/wp-content/plugins/dw-social-share/assets/css/style.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='styles.css-css'  href='https://itmastersmag.com/wp-content/plugins/netmedia-zoho-connector/_inc/css/styles.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_fonts-css'  href='https://itmastersmag.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='https://itmastersmag.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://itmastersmag.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://itmastersmag.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://itmastersmag.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dw-focus-main-css'  href='https://itmastersmag.com/wp-content/themes/dw-focus/assets/css/dw-focus.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dw-focus-style-css'  href='https://itmastersmag.com/wp-content/themes/dw-focus/style.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dw-focus-print-css'  href='https://itmastersmag.com/wp-content/themes/dw-focus/assets/css/print.css?ver=1.3.4' type='text/css' media='print' />
+<link rel='stylesheet' id='dw-focus-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm-css'  href='https://itmastersmag.com/wp-content/plugins/team-members/inc/css/tmm_style.min.css?ver=5.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://itmastersmag.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/plugins/netmedia-zoho-connector/_inc/js/angular.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"se requiere el campo.","bwg_mail_validation":"Esta no es una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida.","bwg_search_result":"No hay im\u00e1genes que coincidan con su b\u00fasqueda.","bwg_select_tag":"Seleccionar etiqueta","bwg_order_by":"Order By","bwg_search":"Buscar","bwg_show_ecommerce":"Mostrar carrito ecommerce","bwg_hide_ecommerce":"Ocultar carrito ecomerce","bwg_show_comments":"Mostrar comentarios","bwg_hide_comments":"Ocultar comentarios","bwg_restore":"Restaurar","bwg_maximize":"Maximizar","bwg_fullscreen":"Pantalla completa","bwg_exit_fullscreen":"Salir de pantalla completa","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Reproducir","pause":"Pausar","is_pro":"","bwg_play":"Reproducir","bwg_pause":"Pausar","bwg_hide_info":"Ocultar informaci\u00f3n","bwg_show_info":"Mostrar informaci\u00f3n","bwg_hide_rating":"Ocultar puntuaci\u00f3n","bwg_show_rating":"Mostrar puntuaci\u00f3n","ok":"Ok","cancel":"Cancel","select_all":"Seleccionar todo"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.21'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/themes/dw-focus/assets/js/modernizr.min.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/themes/dw-focus/assets/js/jquery-mobile.min.js?ver=1.3.2'></script>
+<link rel='https://api.w.org/' href='https://itmastersmag.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://itmastersmag.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://itmastersmag.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel='shortlink' href='https://itmastersmag.com/?p=119673' />
+<link rel="alternate" type="application/json+oembed" href="https://itmastersmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fitmastersmag.com%2Fnoticias-analisis%2Fcuatro-aplicaciones-de-ia-y-machine-learning-en-mexico%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://itmastersmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fitmastersmag.com%2Fnoticias-analisis%2Fcuatro-aplicaciones-de-ia-y-machine-learning-en-mexico%2F&#038;format=xml" />
+<style type="text/css">a {color: #590fa3}a:hover, a:active {color: #000000}.site-footer {color: #555555}.site-footer a {color: #777777}.site-footer a:hover, .site-footer a:active {color: #ffffff}.site-footer #footer-widgets .widget-title {color: #ffffff}.site-footer .footer-navigation, #footer-widgets { border-color: #333333}#footer-widgets .widget_nav_menu:after {background-color: #333333}.site-footer {background-color:#000000}body {color:#333333;font-weight:400;font-weight:400;font-size:14px;font-family:Arial;line-height:1.5;}h1, h2, h3, h4, h5, h6, .dw_focus_widget_news_slider .carousel-title-indicators li, .widget_news-slider .carousel-title-indicators li, .post-navigation .nav-links, .dw_focus_widget_news_ticker a, .widget_news-ticker a {font-weight: 400;font-family:Roboto Slab;line-height:1.3;}h1 {font-size:36px}h2 {font-size:30px}h2 {font-size:30px}h3 {font-size:24px}h4 {font-size:18px}h5 {font-size:14px}h6 {font-size:12px}</style><!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114577882-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114577882-1');
+</script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/29628924/IM06', [255, 255], 'div-gpt-ad-1549391606868-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/29628924/IM07', [[728, 90], [300, 250]], 'div-gpt-ad-1549415823865-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/29628924/IM08', [850, 90], 'div-gpt-ad-1549392766432-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/29628924/IM05', [255, 255], 'div-gpt-ad-1549394456213-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script><link rel="icon" href="https://itmastersmag.com/wp-content/uploads/2019/01/cropped-identidad-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://itmastersmag.com/wp-content/uploads/2019/01/cropped-identidad-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://itmastersmag.com/wp-content/uploads/2019/01/cropped-identidad-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://itmastersmag.com/wp-content/uploads/2019/01/cropped-identidad-1-270x270.jpg" />
+</head>
+
+<body class="post-template-default single single-post postid-119673 single-format-standard layout-boxed sidebar-right">
+<div id="page" class="hfeed site">
+	<header class="site-header">
+		<div class="container">
+			<div class="row hidden-xs hidden-sm">
+				<div class="col-md-4">
+																<a href="https://itmastersmag.com/" rel="home" class="site-logo"><img src="//itmastersmag.com/wp-content/uploads/2019/01/logonet.png" title="IT Masters Mag"></a>
+									</div>
+								<div id="header-widgets" class="col-md-8"><aside class="widget itmas-widget"><!-- /29628924/IM07 -->
+<div id='div-gpt-ad-1549415823865-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1549415823865-0'); });
+</script>
+</div></aside></div>
+							</div>
+						<div class="navigation-wrap under-navigation-activated">
+								<nav id="masthead" class="navbar navbar-default site-navigation" role="banner">
+					<div class="navbar-header">
+												<button class="navbar-toggle" data-toggle="collapse" data-target=".main-navigation"><i class="fa fa-bars"></i></button>
+												<a href="https://itmastersmag.com/" rel="home" class="site-brand navbar-brand visible-xs visible-sm">
+																						<img src="//itmastersmag.com/wp-content/uploads/2019/01/logonet.png" title="IT Masters Mag">
+													</a>
+													<button class="search-toggle visible-xs visible-sm" data-toggle="collapse" data-target=".under-navigation"><i class="fa fa-search"></i></button>
+											</div>
+
+					<div id="site-navigation" class="collapse navbar-collapse main-navigation" role="navigation">
+						<ul id="menu-menu-principal" class="nav navbar-nav navbar-left dw-mega-menu-transition-default"><li class="dw-mega-menu-full-width dw-mega-menu-hover item-121544 menu-lo-ultimo-en-it"><a  href="https://itmastersmag.com/noticias-analisis/">Lo último en IT</a><div class="dw-mega-menu">
+<ul class="dw-sub-menu dw-mega-menu-tabs">
+	<li class="dw-mega-menu-tab dw-mega-menu-hover item-120527 menu-analytics-big-data"><a  href="https://itmastersmag.com/analytics-big-data/"><i class="fa fa-line-chart dw-mega-menu-icon" ></i>Analytics &#038; Big Data</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120519 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-2" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122594 post type-post status-publish format-video has-post-thumbnail hentry category-analytics-big-data category-machine-learning-ai category-webinars-videos tag-ai tag-chatbots tag-cio tag-ia tag-inteligencia-artificial tag-inteligencia-artificial-mexico tag-inversion-en-inteligencia-artificial tag-it tag-it-masters-news tag-principal tag-robots tag-rpa tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/"><img width="230" height="129" src="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Inteligencia Artificial" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-710x400.png 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/">Se buscan: Inversiones en Inteligencia Artificial</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122562 post type-post status-publish format-standard has-post-thumbnail hentry category-analytics-big-data category-glosario category-machine-learning-ai category-noticias-analisis tag-automatizacion tag-cio tag-cloud tag-desarrollo tag-devops tag-glosario tag-noops tag-operaciones tag-principal tag-qa tag-serverless">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/glosario/que-es-noops-y-como-esta-revolucionando-los-entornos-de-trabajo-it/"><img width="230" height="153" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-230x153.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="NoOps" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-230x153.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-300x200.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-768x511.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-811x540.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-e1568154004285.jpg 1280w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/glosario/que-es-noops-y-como-esta-revolucionando-los-entornos-de-trabajo-it/">Qué es NoOps y cómo está revolucionando los entornos de trabajo IT</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122293 post type-post status-publish format-standard has-post-thumbnail hentry category-analytics-big-data category-blogs-columnas category-machine-learning-ai category-monicamistretta tag-analytics tag-big-data tag-ciencia-de-datos tag-inteligencia-artificial tag-licenciatura tag-machine-learning tag-principal tag-unam">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/blogs-columnas/comienza-la-gestacion-de-los-primeros-profesionales-en-ciencias-de-datos-los-proyectos-de-inteligencia-artificial-pueden-esperar/"><img width="230" height="157" src="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_114892984-e1565901123558-230x157.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="ciencia de datos" srcset="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_114892984-e1565901123558-230x157.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_114892984-e1565901123558-300x205.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_114892984-e1565901123558-768x525.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_114892984-e1565901123558-811x554.jpg 811w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/blogs-columnas/comienza-la-gestacion-de-los-primeros-profesionales-en-ciencias-de-datos-los-proyectos-de-inteligencia-artificial-pueden-esperar/">Comienza la gestación de los primeros profesionales en Ciencias de datos; los proyectos de inteligencia artificial ¿pueden esperar?</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+	<li class="dw-mega-menu-tab dw-mega-menu-hover item-120528 menu-cloud"><a  href="https://itmastersmag.com/cloud/"><i class="fa fa-cloud dw-mega-menu-icon" ></i>Cloud</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120520 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-4" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122348 post type-post status-publish format-video has-post-thumbnail hentry category-cloud category-webinars-videos tag-cloud tag-cloud-computing tag-datos tag-gobernanza tag-it-masters-news tag-nube tag-principal tag-seguridad tag-veritas tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/webinars-videos/cinco-mitos-sobre-la-nube/"><img width="230" height="129" src="https://itmastersmag.com/wp-content/uploads/2019/08/vlcsnap-2019-08-23-11h41m13s732-230x129.png" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Mitos sobre la nube" srcset="https://itmastersmag.com/wp-content/uploads/2019/08/vlcsnap-2019-08-23-11h41m13s732-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/08/vlcsnap-2019-08-23-11h41m13s732-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/08/vlcsnap-2019-08-23-11h41m13s732-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/08/vlcsnap-2019-08-23-11h41m13s732-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/08/vlcsnap-2019-08-23-11h41m13s732-710x400.png 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/cinco-mitos-sobre-la-nube/">Cinco mitos sobre la nube</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122214 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-it-management category-webinars-videos tag-cloud tag-escalabilidad tag-hci tag-infraestructura tag-infraestructura-hiperconvergente tag-nutanix tag-principal tag-virtualizacion">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/webinars-videos/con-las-manos-en-la-hiperconvergencia-una-experiencia-practica-de-hci-2/"><img width="230" height="173" src="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_397107355-230x173.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="" srcset="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_397107355-230x173.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_397107355-300x225.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_397107355-768x576.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_397107355-811x608.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_397107355-e1565294369168.jpg 1280w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/con-las-manos-en-la-hiperconvergencia-una-experiencia-practica-de-hci-2/">Con las manos en la hiperconvergencia: una experiencia práctica de HCI</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122186 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-it-management category-noticias-analisis tag-cloud-computing tag-cloud-paks tag-contenedores tag-contenedores-de-aplicaciones tag-ibm tag-principal tag-red-hat tag-virtualizacion">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/ibm-lanza-cloud-paks-las-primeras-aplicaciones-pensadas-para-red-hat-openshift/"><img width="230" height="150" src="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_1050586766-230x150.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="IBM Cloud" srcset="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_1050586766-230x150.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_1050586766-300x195.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_1050586766-768x499.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_1050586766-811x527.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_1050586766-e1564780700567.jpg 1280w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/ibm-lanza-cloud-paks-las-primeras-aplicaciones-pensadas-para-red-hat-openshift/">IBM lanza Cloud Paks, las primeras aplicaciones pensadas para Red Hat OpenShift</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+	<li class="dw-mega-menu-tab dw-mega-menu-hover item-120529 menu-innovacion-emprendimiento"><a  href="https://itmastersmag.com/innovacion-emprendimiento/"><i class="fa fa-rocket dw-mega-menu-icon" ></i>Innovación &#038; Emprendimiento</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120522 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-6" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122285 post type-post status-publish format-standard has-post-thumbnail hentry category-innovacion-emprendimiento category-it-management category-noticias-analisis tag-banamex tag-cio tag-infonavit tag-innovacion tag-la-comer tag-las-mas-innovadoras tag-principal tag-veracruz">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/eureka-cuatro-cio-que-avanzan-con-la-innovacion-por-delante/"><img width="230" height="129" src="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308-230x129.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Innovadoras" srcset="https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308-230x129.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308-300x168.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308-768x431.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308-811x455.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308-710x400.jpg 710w, https://itmastersmag.com/wp-content/uploads/2019/08/shutterstock_140576308.jpg 1000w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/eureka-cuatro-cio-que-avanzan-con-la-innovacion-por-delante/">¡Eureka!: Cuatro CIO que avanzaron con la innovación por delante</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122021 post type-post status-publish format-standard has-post-thumbnail hentry category-innovacion-emprendimiento category-it-management category-it-masters-series category-noticias-analisis tag-con-cdmx-2019 tag-disrupcion tag-innovacion tag-it-masters-con tag-modelo-de-negocio tag-principal tag-saul-kaplan tag-transformacion-digital">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/saul-kaplan-plantea-que-revolucionar-los-modelos-de-negocio-es-la-clave-de-la-innovacion/"><img width="230" height="149" src="https://itmastersmag.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-12-at-11.02.33-AM-230x149.jpeg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="" srcset="https://itmastersmag.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-12-at-11.02.33-AM-230x149.jpeg 230w, https://itmastersmag.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-12-at-11.02.33-AM-300x194.jpeg 300w, https://itmastersmag.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-12-at-11.02.33-AM-768x498.jpeg 768w, https://itmastersmag.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-12-at-11.02.33-AM-811x526.jpeg 811w, https://itmastersmag.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-12-at-11.02.33-AM.jpeg 1080w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/saul-kaplan-plantea-que-revolucionar-los-modelos-de-negocio-es-la-clave-de-la-innovacion/">Revolucionar los modelos de negocio es la clave de la innovación para Saul Kaplan</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-121952 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs-columnas category-innovacion-emprendimiento tag-digitalizacion tag-emprendimiento tag-everis tag-opinion tag-transformacion-digital">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/blogs-columnas/es-la-digitalizacion%e2%80%8b-la-nueva-esperanza-del-emprendimiento/"><img width="230" height="154" src="https://itmastersmag.com/wp-content/uploads/2019/07/shutterstock_1042524955-230x154.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="" srcset="https://itmastersmag.com/wp-content/uploads/2019/07/shutterstock_1042524955-230x154.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/07/shutterstock_1042524955-300x200.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/07/shutterstock_1042524955-768x513.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/07/shutterstock_1042524955-811x542.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/07/shutterstock_1042524955.jpg 1000w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/blogs-columnas/es-la-digitalizacion%e2%80%8b-la-nueva-esperanza-del-emprendimiento/">¿Es la digitalización​ la nueva esperanza del emprendimiento?</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+	<li class="current-post-ancestor active current-post-parent dw-mega-menu-tab dw-mega-menu-hover item-120531 menu-machine-learning-ai"><a  href="https://itmastersmag.com/machine-learning-ai/"><i class="fa fa-gears dw-mega-menu-icon" ></i>Machine Learning &#038; AI</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120523 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-7" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122594 post type-post status-publish format-video has-post-thumbnail hentry category-analytics-big-data category-machine-learning-ai category-webinars-videos tag-ai tag-chatbots tag-cio tag-ia tag-inteligencia-artificial tag-inteligencia-artificial-mexico tag-inversion-en-inteligencia-artificial tag-it tag-it-masters-news tag-principal tag-robots tag-rpa tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/"><img width="230" height="129" src="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Inteligencia Artificial" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-710x400.png 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/">Se buscan: Inversiones en Inteligencia Artificial</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122562 post type-post status-publish format-standard has-post-thumbnail hentry category-analytics-big-data category-glosario category-machine-learning-ai category-noticias-analisis tag-automatizacion tag-cio tag-cloud tag-desarrollo tag-devops tag-glosario tag-noops tag-operaciones tag-principal tag-qa tag-serverless">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/glosario/que-es-noops-y-como-esta-revolucionando-los-entornos-de-trabajo-it/"><img width="230" height="153" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-230x153.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="NoOps" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-230x153.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-300x200.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-768x511.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-811x540.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_5740002132-e1568154004285.jpg 1280w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/glosario/que-es-noops-y-como-esta-revolucionando-los-entornos-de-trabajo-it/">Qué es NoOps y cómo está revolucionando los entornos de trabajo IT</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122559 post type-post status-publish format-video has-post-thumbnail hentry category-machine-learning-ai category-webinars-videos tag-ai tag-automatizacion tag-cio tag-desplegar-inteligencia-artificial tag-ia tag-industria-4-0 tag-inteligencia-artificial tag-iot tag-it tag-it-masters-news tag-principal tag-robots tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/webinars-videos/como-implementar-ai-con-minimos-riesgos/"><img width="230" height="129" src="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-230x129.png" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Consejos para la inteligencia artificial" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-710x400.png 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/como-implementar-ai-con-minimos-riesgos/">Cómo implementar AI con mínimos riesgos</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+	<li class="dw-mega-menu-tab dw-mega-menu-hover item-120533 menu-seguridad"><a  href="https://itmastersmag.com/seguridad/"><i class="fa fa-shield dw-mega-menu-icon" ></i>Seguridad</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120524 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-8" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122597 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias-analisis category-seguridad tag-bec tag-fbi tag-ibm tag-ibmsecuritysummit tag-phishing tag-principal tag-x-force">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/bec-o-fraude-de-ceo-es-el-tipo-de-phishing-que-mas-rapido-crece/"><img width="230" height="178" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_569172163-ciberseg-230x178.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_569172163-ciberseg-230x178.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_569172163-ciberseg-300x232.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_569172163-ciberseg-768x593.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_569172163-ciberseg-811x627.jpg 811w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/bec-o-fraude-de-ceo-es-el-tipo-de-phishing-que-mas-rapido-crece/">BEC, o fraude de CEO, es el tipo de phishing que más rápido crece</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122589 post type-post status-publish format-standard has-post-thumbnail hentry category-gobierno category-it-masters-series category-noticias-analisis category-seguridad tag-arnulfo-espinosa tag-it-masters-con tag-nuevos-negocios-digitales tag-pablo-corona tag-principal tag-raymundo-artis-espriu tag-saul-kaplan tag-transformacion-digital tag-walmart">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/cinco-lecturas-para-aproximarse-a-la-nueva-era-de-los-negocios-digitales/"><img width="230" height="130" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-230x130.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="negocios digitales" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-230x130.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-300x169.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-768x434.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-811x458.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-710x400.jpg 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/cinco-lecturas-para-aproximarse-a-la-nueva-era-de-los-negocios-digitales/">Cinco lecturas para aproximarse a la nueva era de los negocios digitales</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122506 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias-analisis category-seguridad tag-aws tag-ciberseguridad tag-nist tag-oea tag-principal">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/oea-y-aws-presentan-documento-para-fortalecer-ciberseguridad-en-las-americas/"><img width="230" height="153" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_599391605-1-230x153.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_599391605-1-230x153.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_599391605-1-300x200.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_599391605-1-768x512.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_599391605-1-811x541.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_599391605-1.jpg 1000w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/oea-y-aws-presentan-documento-para-fortalecer-ciberseguridad-en-las-americas/">OEA y AWS presentan documento para fortalecer ciberseguridad en las Américas</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+	<li class="dw-mega-menu-tab dw-mega-menu-hover item-120532 menu-it-management"><a  href="https://itmastersmag.com/it-management/"><i class="fa fa-sitemap dw-mega-menu-icon" ></i>IT Management</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120525 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-3" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122584 post type-post status-publish format-standard has-post-thumbnail hentry category-it-management category-noticias-analisis tag-almacenamiento tag-ciberseguridad tag-cloud tag-ibm tag-mainframe tag-multinube tag-nube-hibrida tag-principal tag-z15">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/ibm-renueva-su-linea-de-mainframes-con-el-z15/"><img width="230" height="153" src="https://itmastersmag.com/wp-content/uploads/2019/09/Z15-Glam-Shot-230x153.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Servidor z15 de IBM" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/Z15-Glam-Shot-230x153.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/Z15-Glam-Shot-300x200.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/Z15-Glam-Shot-768x512.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/Z15-Glam-Shot-811x541.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/Z15-Glam-Shot-e1568303479873.jpg 1280w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/ibm-renueva-su-linea-de-mainframes-con-el-z15/">IBM renueva su línea de mainframes con el z15</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122547 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs-columnas category-it-management tag-innovacion tag-it-masters-con tag-modelo-de-negocio tag-modelo-de-negocios tag-principal tag-saul-kaplan tag-the-business-model-innovation-factory tag-transformacion-digital">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/blogs-columnas/la-fabrica-de-innovacion-de-modelos-de-negocio-es-una-lectura-necesaria/"><img width="230" height="161" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_150443150-230x161.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Modelo de negocios" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_150443150-230x161.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_150443150-300x210.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_150443150-768x538.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_150443150-811x568.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_150443150.jpg 1000w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/blogs-columnas/la-fabrica-de-innovacion-de-modelos-de-negocio-es-una-lectura-necesaria/">&#171;La fábrica de innovación de modelos de negocio&#187; es una lectura necesaria</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122389 post type-post status-publish format-video has-post-thumbnail hentry category-gobierno category-informes-whitepapers category-it-management category-webinars-videos tag-beneficios tag-certificaciones-it tag-cio tag-cuanto-gana-un-cio tag-departamento-de-sistemas tag-director-de-sistemas tag-habilidades tag-informe-de-sueldos-2019 tag-it tag-principal tag-remuneraciones tag-sueldos-it tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/informes-whitepapers/informe-de-sueldos-it-2020/"><img width="230" height="149" src="https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-230x149.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Informe de sueldos IT 2020" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-230x149.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-300x194.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-768x498.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-811x526.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos.jpg 1080w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/informes-whitepapers/informe-de-sueldos-it-2020/">Informe de sueldos IT 2020: Un nuevo año de alzas</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+	<li class="dw-mega-menu-tab dw-mega-menu-hover item-120534 menu-gobierno"><a  href="https://itmastersmag.com/gobierno/"><i class="fa fa-institution dw-mega-menu-icon" ></i>Gobierno</a>
+	<ul class="dw-sub-menu">
+		<li class="dw-mega-menu-hover item-120521 menu-dw-focus-news-grid">			<div class="dw-megamenu-widget">
+					<div id="news-grid-5" class="widget dw_focus_widget_news_grid">		<div class="">
+			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-4">
+											<article class="post-122589 post type-post status-publish format-standard has-post-thumbnail hentry category-gobierno category-it-masters-series category-noticias-analisis category-seguridad tag-arnulfo-espinosa tag-it-masters-con tag-nuevos-negocios-digitales tag-pablo-corona tag-principal tag-raymundo-artis-espriu tag-saul-kaplan tag-transformacion-digital tag-walmart">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/cinco-lecturas-para-aproximarse-a-la-nueva-era-de-los-negocios-digitales/"><img width="230" height="130" src="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-230x130.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="negocios digitales" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-230x130.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-300x169.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-768x434.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-811x458.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/shutterstock_182769413-e1568325247900-710x400.jpg 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/cinco-lecturas-para-aproximarse-a-la-nueva-era-de-los-negocios-digitales/">Cinco lecturas para aproximarse a la nueva era de los negocios digitales</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-122389 post type-post status-publish format-video has-post-thumbnail hentry category-gobierno category-informes-whitepapers category-it-management category-webinars-videos tag-beneficios tag-certificaciones-it tag-cio tag-cuanto-gana-un-cio tag-departamento-de-sistemas tag-director-de-sistemas tag-habilidades tag-informe-de-sueldos-2019 tag-it tag-principal tag-remuneraciones tag-sueldos-it tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/informes-whitepapers/informe-de-sueldos-it-2020/"><img width="230" height="149" src="https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-230x149.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Informe de sueldos IT 2020" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-230x149.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-300x194.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-768x498.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos-811x526.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/09/informe-sueldos.jpg 1080w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/informes-whitepapers/informe-de-sueldos-it-2020/">Informe de sueldos IT 2020: Un nuevo año de alzas</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																	<div class="col-sm-4">
+											<article class="post-121712 post type-post status-publish format-standard has-post-thumbnail hentry category-gobierno category-noticias-analisis category-telecomunicaciones-redes tag-amvo tag-economia-digital tag-principal tag-profeco tag-secretaria-de-economia tag-ssig2019">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/noticias-analisis/profeco-aumentara-proteccion-a-usuarios-de-economia-digital/"><img width="230" height="153" src="https://itmastersmag.com/wp-content/uploads/2019/05/shutterstock_1110634118-digital-economy-230x153.jpg" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="" srcset="https://itmastersmag.com/wp-content/uploads/2019/05/shutterstock_1110634118-digital-economy-230x153.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/05/shutterstock_1110634118-digital-economy-300x200.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/05/shutterstock_1110634118-digital-economy-768x512.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/05/shutterstock_1110634118-digital-economy-811x541.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/05/shutterstock_1110634118-digital-economy.jpg 1000w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/profeco-aumentara-proteccion-a-usuarios-de-economia-digital/">Profeco aumentará protección a usuarios de economía digital</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+													</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</div>
+					</div>
+			</li>
+	</ul>
+</li>
+</ul>
+</div></li>
+<li class="current-post-ancestor active current-post-parent dw-mega-menu-hover item-120535 menu-noticias-analisis"><a  href="https://itmastersmag.com/noticias-analisis/">Noticias &#038; Análisis</a></li>
+<li class="dw-mega-menu-hover item-120536 menu-informes-whitepapers"><a  href="https://itmastersmag.com/informes-whitepapers/">Informes &#038; Whitepapers</a></li>
+<li class="dw-mega-menu-hover item-120537 menu-webinars-videos"><a  href="https://itmastersmag.com/webinars-videos/">Webinars &#038; Videos</a></li>
+<li class="dw-mega-menu-hover item-120538 menu-blogs-columnas"><a  href="https://itmastersmag.com/blogs-columnas/">Blogs &#038; Columnas</a></li>
+<li class="dw-mega-menu-hover item-120539 menu-it-masters-series"><a  href="http://itmastersseries.com">IT Masters Series</a></li>
+</ul>						<div class="hidden-xs hidden-sm">		<ul class="nav navbar-nav navbar-right">
+									<li class="twitter">
+				<a href="https://twitter.com/Netmedia_mx"><i class="fa fa-twitter"></i></a>
+			</li>
+						<li class="facebook-f">
+				<a href="https://www.facebook.com/netmediaevents/"><i class="fa fa-facebook-f"></i></a>
+			</li>
+												<li class="user"><a href="https://itmastersmag.com/wp-login.php"><i class="fa fa-user"></i></a></li>		</ul>
+	</div>
+					</div>
+				</nav>
+
+								<div class="under-navigation hidden-xs hidden-sm">
+					<div class="row">
+						<div class="col-md-9 hidden-xs hidden-sm">		<aside id="news-ticker-2" class="widget dw_focus_widget_news_ticker">				<div class="news-ticker-wrap headlines" data-interval="4000">
+			<ul>
+							<li>
+					<a href="https://itmastersmag.com/noticias-analisis/bec-o-fraude-de-ceo-es-el-tipo-de-phishing-que-mas-rapido-crece/">BEC, o fraude de CEO, es el tipo de phishing que más rápido crece</a>
+								</li>
+							<li>
+					<a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/">Se buscan: Inversiones en Inteligencia Artificial</a>
+								</li>
+							<li>
+					<a href="https://itmastersmag.com/noticias-analisis/cinco-lecturas-para-aproximarse-a-la-nueva-era-de-los-negocios-digitales/">Cinco lecturas para aproximarse a la nueva era de los negocios digitales</a>
+								</li>
+							<li>
+					<a href="https://itmastersmag.com/noticias-analisis/ibm-renueva-su-linea-de-mainframes-con-el-z15/">IBM renueva su línea de mainframes con el z15</a>
+								</li>
+							<li>
+					<a href="https://itmastersmag.com/noticias-analisis/navegacion-movil-registra-crecimiento-exponencial-en-mexico-the-ciu/">Navegación móvil registra crecimiento exponencial en México</a>
+								</li>
+						</ul>
+		</div>
+		</aside>		</div>
+						<div class="col-md-3"><form method="get" id="searchform" action="https://itmastersmag.com/">
+	<input type="text" name="s" id="s" class="form-control" value="" placeholder="Search">
+	<input type="submit" class="search-submit">
+</form>
+</div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</header>
+
+	<div id="content" class="site-content">
+
+<div class="container">
+	<div class="content-inner">
+		<div class="row">
+			<div class="col-lg-9">
+				<div id="primary" class="content-area">
+					<main id="main" class="site-main" role="main">
+																	
+	<article id="post-119673" class="post-119673 post type-post status-publish format-standard has-post-thumbnail hentry category-machine-learning-ai category-noticias-analisis tag-bbva tag-hospitales-angeles tag-inteligencia-artificial tag-machine-learning tag-metrics tag-microsoft tag-skyalert tag-watson tag-yalo">
+		<header class="entry-header">
+			<h1 class="entry-title">Cuatro aplicaciones de IA y Machine Learning en México</h1>
+			<div class="entry-meta">
+				<span class="cat-links"><i class="fa fa-folder"></i> <a href="https://itmastersmag.com/machine-learning-ai/" rel="category tag">Machine Learning &amp; AI</a>, <a href="https://itmastersmag.com/noticias-analisis/" rel="category tag">Noticias &amp; Análisis</a></span><span class="posted-on"><i class="fa fa-clock-o"></i> <a href="https://itmastersmag.com/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/" rel="bookmark"><span class="entry-date published">septiembre 11, 2018</span><span class="updated sr-only">septiembre 14, 2018</span></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn" href="https://itmastersmag.com/author/maricela/">Maricela Ochoa</a></span></span>			</div>
+		</header>
+
+				<div class="entry-thumbnail"><figure class="wp-caption featured"><img width="1280" height="755" src="https://itmastersmag.com/wp-content/uploads/2018/09/shutterstock_1098841148-e1536703790784.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure></div>
+	
+	<div class="row">
+		<div class="entry-content col-md-9 col-md-push-3">
+
+			<p>México invierte poco en ciencia, tecnología e innovación (CTI). ¿Inteligencia artificial? Ni se menciona. El pasado 22 de agosto, el rector de la UNAM, Enrique Graue Wiechers, entregó al presidente electo –Andrés Manuel López Obrador– el documento <a href="http://www.dgcs.unam.mx/boletin/bdboletin/2018_511.html" target="_blank" rel="noopener">“Hacia la Consolidación y Desarrollo de Políticas Públicas en Ciencia, Tecnología e Innovación. Objetivo estratégico para una política de Estado 2018-2024&#8243;</a> ”, una agenda consensuada entre más de 80 instituciones CTI, cuyo objetivo explícito es contribuir al desarrollo de México.</p>
+<p>Durante la entrega, el rector afirmó que los países miembros de la OCDE invierten en promedio 2.34% en CTI. México no destinó ni 0.5% durante la presente administración. El <a href="http://unesdoc.unesco.org/images/0023/002354/235407s.pdf" target="_blank" rel="noopener">Informe sobre Ciencia hacia 2030 de la Organización de las Naciones Unidas para la Educación la Ciencia y la Cultura (UNESCO)</a> apunta que hace seis años (en 2012), se invertía solamente 0.38% del Producto Interno Bruto (PIB), un porcentaje bajo a comparación de países como Estados Unidos, Francia o Alemania, que entonces invertían 0.76, 0.78 y 0.85% de su PIB respectivamente.</p>
+<p>Esto es a nivel país, pero ¿qué sucede en la iniciativa privada? Integrar la robótica y las redes neuronales –como parte de la inteligencia artificial– y aplicarlas a procesos productivos puede reducir costos y riesgos en en áreas peligrosas, así como tener un mejor control de calidad en áreas comerciales y crear procesos predictivos para dar respuesta a problemáticas en cualquier tipo de empresa.</p>
+<p>A propósito de Machine learning (ML), en el PDF <a href="http://mim.promexico.gob.mx/work/models/mim/Resource/152/1/images/machine-learning.pdf" target="_blank" rel="noopener">“Machine learning. Inteligencia artificial que está transformando al mundo”</a>, de la Unidad de Inteligencia de Negocios de PROMÉXICO, se afirma que correlacionar variables es una de las grandes ventajas del aprendizaje automático. El documento cita <a href="https://medium.com/mcgill-artificial-intelligence-review/120-machine-learning-business-ideas-from-the-new-mckinsey-report-b81b239f336" target="_blank" rel="noopener">un estudio de McKinsey</a> que destaca el potencial de ML “para resolver diferentes tipos de problemas de sectores industriales, generando un impacto en su operación y en su forma de hacer negocios”.</p>
+<p>En este escenario, <em>IT Masters Mag</em> buscó cuatro casos en los que exista inteligencia artificial y machine learning involucrados, que estén operando actualmente para dar solución a diversas problemáticas de empresas en México:</p>
+<ol>
+<li><strong>BBVA Bancomer. Asistente virtual a través de WhatsApp</strong><br />
+En <a href="https://www.bbva.com/es/bbva-bancomer-implementa-asistente-virtual-integracion-inteligencia-artificial/" target="_blank" rel="noopener">su portal</a> se detalla que este es el primer banco en México en sumar la inteligencia artificial (IA) a través de WhatsApp. El objetivo del asistente fue facilitar la interacción de los clientes y usuarios con el banco para dar respuesta a inquietudes acerca de localización de sucursales, apertura de cuentas y brindar sugerencias de uso de las soluciones digitales del banco.<br />
+Como se integra a la tecnología de WhatsApp, el Asistente Virtual de BBVA procesa texto y voz para mejorar la interacción. Mediante el uso de datos y ‘machine learning’, el Asistente Virtual utiliza y procesa información que convierte en interacciones precisas sobre las necesidades financieras de los clientes cuando ellos lo requieren.<br />
+“Mediante inteligencia artificial, el Asistente Virtual de BBVA entiende y aprende los requerimientos y consultas de los clientes, lo que le permite ampliar sus capacidades conforme evolucione el proyecto”, indica la entidad.<br />
+Ante preguntas como “qué cuentas hay” o “qué tarjetas de crédito tienen” el asistente muestra los productos que se pueden contratar, sus características y formas de contratación. El servicio permite que con solo la palabra “aplicaciones” se pueda acceder a la información de las aplicaciones que ofrece BBVA Bancomer, su funcionalidad y cómo instalarlas en el teléfono.</li>
+<li><strong>Yalochat en Aeroméxico</strong><br />
+Desde octubre del año pasado, la aerolínea ofrece <a href="https://www.yalochat.com/" target="_blank" rel="noopener">Yalo</a>, herramienta que permite consultar información sobre un viaje, vía WhatsApp, obtener el pase de abordar y hacer <em>check-in</em> desde el celular. La plataforma ya estaba disponible anteriormente vía Facebook Messenger.<br />
+Esta solución la desarrollaron en conjunto Aeroméxico y Yalo, startup mexicana que surgió en 2015 y utiliza IA para crear plataformas que facilitan la interacción entre empresas y clientes vía chats. Se pueden enviar imágenes, gifs, pdfs y audios de manera encriptada.<br />
+Posteriormente, pusieron en funcionamiento el sistema de atención a clientes de Aeroméxico vía chat, disponible las 24 horas del día los siete días de la semana. Con él se puede cotizar un vuelo y reservarlo en lenguaje natural e incluso aclarar dudas como cuántas piezas de equipaje se puede documentar o si es posible llevar consigo a su mascota consigo.<br />
+Este sistema también ofrece la opción de recibir notificaciones antes y después del viaje, con horarios de salida y sala asignada, así como la posibilidad de hacer <em>check-in</em> y descargar el pase de abordar sin salir de la aplicación.</li>
+<li><strong>SkyAlert, predicciones de réplicas de terremotos</strong><br />
+La aplicación <a href="http://skyalert.mx/2018/08/30/la-inteligencia-artificial-crea-predicciones-de-replicas-de-terremotos/" target="_blank" rel="noopener">SkyAlert</a> envía una alerta para que la comunidad pueda tomar medidas preventivas ante un sismo. Utiliza Azure Machine Learning y, según <a href="https://customers.microsoft.com/es-mx/story/skyalert-windows-iot-azure-storage-machine-learning-stream-analytics-es" target="_blank" rel="noopener">el sitio web de Microsoft</a>, se convirtió en la primera compañía en México con un dispositivo físico de IA basado en Windows.<br />
+Alejandro Cantú, director y fundador de AkyAlert, propuso dar un uso inteligente a la tecnología para ayudar a miles de mexicanos ante estos desastres naturales. Mediante el uso de sensores propios, la plataforma envía alertas sísmicas a sus usuarios antes que se produzca el terremoto. Así, los ciudadanos pueden tomar medidas preventivas para minimizar las consecuencias del mismo.<br />
+“SkyAlert utiliza más de 80 sensores propios colocados en la costa del Pacífico, se envía la información a un servidor central que analiza los algoritmos e identifica el sismo, y de ahí se transmite la información a la nube Azure para una última etapa de procesamiento y generación de notificaciones para que los usuarios reciban las alertas”, detallan en el sitio.</li>
+<li><strong>Centro de Tecnología Cognitiva de los Hospitales Ángeles</strong><br />
+A través de <a href="https://www-03.ibm.com/press/mx/es/pressrelease/52735.wss" target="_blank" rel="noopener">un comunicado de prensa</a>, IBM indicó que los médicos especialistas utilizan Watson for Oncology para identificar opciones de tratamiento de cáncer basadas en evidencia. Esta solución de inteligencia artificial fue entrenada por el Memorial Sloan Kettering Cancer Center de Estados Unidos. Los Hospitales Ángeles fueron la primera institución de salud en América Latina en adoptarla.<br />
+De acuerdo con la información, el servicio extrae de más de 300 revistas médicas, de más de 200 libros de texto y de casi 15 millones de páginas de texto, para proporcionar a los oncólogos información sobre diferentes opciones tanto de tratamiento como de medicamentos. Adicionalmente Watson clasifica las opciones de tratamiento basadas en evidencia, vinculando los estudios revisados por sus pares con las guías clínicas.</li>
+</ol>
+<p>Según PwC (citada por <a href="https://www.forbes.com.mx/mexico-necesita-una-estrategia-nacional-de-inteligencia-artificial/" target="_blank" rel="noopener">la revista <em>Forbes</em></a>), para el año 2030, la IA aportará hasta 15,700 millones de dólares al PIB mundial, con lo que tendrá gran importancia como fuente de crecimiento económico. Pero esto no se dará automáticamente, hay que crear e invertir en proyectos que involucren IA. En el país, tanto el sector público como el privado están trabajando con iniciativas de este tipo. El próximo mes, en la premiación de <a href="http://www.lasmasinnovadoras.com/" target="_blank" rel="noopener">Las más innovadoras 2018</a>, organizada por Netmedia, seguramente será posible ver qué nuevas iniciativas tiene el país en esta línea.</p>
+            
+						</div>
+			<div class="entry-sidebar col-md-3 col-md-pull-9">
+						<div class="entry-sharing">
+			<h3>Sharing</h3>
+			<ul class="dw-social-share dwss-style-custom"><li class="dwss-facebook"><a href="javascript.void(0);" rel="nofollow"><i class="fa fa-facebook"></i> <span>Facebook</span></a></li><li class="dwss-twitter"><a href="javascript.void(0);" rel="nofollow"><i class="fa fa-twitter"></i> <span>Twitter</span></a></li><li class="dwss-linkedin"><a href="javascript.void(0);" rel="nofollow"><i class="fa fa-linkedin"></i> <span>LinkedIn</span></a></li><li class="dwss-mail" ><a href="mailto:admin@example.com?Subject=Cuatro%20aplicaciones%20de%20IA%20y%20Machine%20Learning%20en%20M%C3%A9xico" rel="nofollow"><i class="fa fa-envelope-o"></i> <span>Email</span></a></li></ul>		</div>
+		<div class="tags-links"><h3>Tags</h3> <a href="https://itmastersmag.com/tag/bbva/" rel="tag">BBVA</a>, <a href="https://itmastersmag.com/tag/hospitales-angeles/" rel="tag">Hospitales Ángeles</a>, <a href="https://itmastersmag.com/tag/inteligencia-artificial/" rel="tag">Inteligencia Artificial</a>, <a href="https://itmastersmag.com/tag/machine-learning/" rel="tag">machine learning</a>, <a href="https://itmastersmag.com/tag/metrics/" rel="tag">Metrics</a>, <a href="https://itmastersmag.com/tag/microsoft/" rel="tag">Microsoft</a>, <a href="https://itmastersmag.com/tag/skyalert/" rel="tag">SkyAlert</a>, <a href="https://itmastersmag.com/tag/watson/" rel="tag">Watson</a>, <a href="https://itmastersmag.com/tag/yalo/" rel="tag">Yalo</a></div>				</div>
+		</div>
+
+	</article>												
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://itmastersmag.com/new-it-masters/new-it-masters-grupo-pena-verde/" rel="prev">&#171;Mis pleitos de todos los días son con el CISO, pero son pleitos fundamentales&#187;, Ricardo Elorza, gerente corporativo de Infraestructura y Soporte en Grupo Peña Verde</a></div><div class="nav-next"><a href="https://itmastersmag.com/noticias-analisis/la-disrupcion-del-blockchain-en-16-industrias-globales/" rel="next">La disrupción del blockchain en 16 industrias globales</a></div></div>
+	</nav>						<div class="author-info">
+							<div class="author-avatar">
+								<img src="https://itmastersmag.com/wp-content/uploads/2019/02/Para-IT-Masters-120x120.jpg" width="72" height="72" alt="Maricela Ochoa" class="avatar avatar-72 wp-user-avatar wp-user-avatar-72 alignnone photo" />							</div>
+							<div class="author-detail">
+								<h4 class="author-title"> <a href="https://itmastersmag.com/author/maricela/" title="Entradas de Maricela Ochoa" rel="author">Maricela Ochoa</a></h4>
+								<p class="site-url"><a href=""></a>
+								</p>
+								<p class="author-description">Reportera de tecnología. Suele buscar temas de innovación, nuevas aplicaciones IT y seguridad de la información. 
+Periodista por la UNAM; estudió Marketing en el ITAM y Branding en la Universidad de Bogotá Jorge Tadeo Lozano. Storyteller apasionada por la astronomía.</p>
+								<ul class="author-icons">
+																	</ul>
+
+							</div>
+						</div>
+																		<!-- Related Posts  -->
+															<div class="related-post">
+										<h3><span>Related posts</span></h3>
+										<div class="row-fluid">
+											<div class="content-relate-inner">
+																								<div class="col-md-4 related-col">
+														
+<article id="post-122594" class="post-122594 post type-post status-publish format-video has-post-thumbnail hentry category-analytics-big-data category-machine-learning-ai category-webinars-videos tag-ai tag-chatbots tag-cio tag-ia tag-inteligencia-artificial tag-inteligencia-artificial-mexico tag-inversion-en-inteligencia-artificial tag-it tag-it-masters-news tag-principal tag-robots tag-rpa tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+        <div class="entry-thumbnail">
+        <a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/" title="Permalink to Se buscan: Inversiones en Inteligencia Artificial" rel="bookmark">
+                            <i class="icon-post-format fa fa-file-video-o"></i>    
+            
+            <img width="300" height="169" src="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-300x169.png" class="attachment-medium size-medium wp-post-image" alt="Inteligencia Artificial" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-710x400.png 710w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    </div>
+    
+    <div class="post-inner">
+        <header class="entry-header">
+            <h2 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/" title="Permalink to Se buscan: Inversiones en Inteligencia Artificial" rel="bookmark">Se buscan: Inversiones en Inteligencia Artificial</a>
+            </h2>
+        </header>
+    </div>
+</article>													</div>
+																									<div class="col-md-4 related-col">
+														
+<article id="post-122559" class="post-122559 post type-post status-publish format-video has-post-thumbnail hentry category-machine-learning-ai category-webinars-videos tag-ai tag-automatizacion tag-cio tag-desplegar-inteligencia-artificial tag-ia tag-industria-4-0 tag-inteligencia-artificial tag-iot tag-it tag-it-masters-news tag-principal tag-robots tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+        <div class="entry-thumbnail">
+        <a href="https://itmastersmag.com/webinars-videos/como-implementar-ai-con-minimos-riesgos/" title="Permalink to Cómo implementar AI con mínimos riesgos" rel="bookmark">
+                            <i class="icon-post-format fa fa-file-video-o"></i>    
+            
+            <img width="300" height="169" src="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-300x169.png" class="attachment-medium size-medium wp-post-image" alt="Consejos para la inteligencia artificial" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-06-12h00m39s560-710x400.png 710w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    </div>
+    
+    <div class="post-inner">
+        <header class="entry-header">
+            <h2 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/como-implementar-ai-con-minimos-riesgos/" title="Permalink to Cómo implementar AI con mínimos riesgos" rel="bookmark">Cómo implementar AI con mínimos riesgos</a>
+            </h2>
+        </header>
+    </div>
+</article>													</div>
+																									<div class="col-md-4 related-col">
+														
+<article id="post-122344" class="post-122344 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias-analisis category-seguridad tag-ciberseguridad tag-darktrace tag-ia tag-inteligencia-artificial tag-iot tag-principal tag-seguridad">
+        <div class="entry-thumbnail">
+        <a href="https://itmastersmag.com/noticias-analisis/la-ai-aplicada-a-la-ciber-defensa-puede-ser-la-nueva-gran-promesa/" title="Permalink to La AI aplicada a la ciber defensa puede ser la nueva gran promesa" rel="bookmark">
+            
+            <img width="300" height="194" src="https://itmastersmag.com/wp-content/uploads/2019/08/Laura-Jimenez-300x194.jpg" class="attachment-medium size-medium wp-post-image" alt="Laura Jimenez, Darktrace" srcset="https://itmastersmag.com/wp-content/uploads/2019/08/Laura-Jimenez-300x194.jpg 300w, https://itmastersmag.com/wp-content/uploads/2019/08/Laura-Jimenez-768x498.jpg 768w, https://itmastersmag.com/wp-content/uploads/2019/08/Laura-Jimenez-811x526.jpg 811w, https://itmastersmag.com/wp-content/uploads/2019/08/Laura-Jimenez-230x149.jpg 230w, https://itmastersmag.com/wp-content/uploads/2019/08/Laura-Jimenez.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    </div>
+    
+    <div class="post-inner">
+        <header class="entry-header">
+            <h2 class="entry-title"><a href="https://itmastersmag.com/noticias-analisis/la-ai-aplicada-a-la-ciber-defensa-puede-ser-la-nueva-gran-promesa/" title="Permalink to La AI aplicada a la ciber defensa puede ser la nueva gran promesa" rel="bookmark">La AI aplicada a la ciber defensa puede ser la nueva gran promesa</a>
+            </h2>
+        </header>
+    </div>
+</article>													</div>
+															
+											</div>
+										</div>
+									</div>
+							
+						
+<section id="comments" class="comments">
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deja un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/noticias-analisis/cuatro-aplicaciones-de-ia-y-machine-learning-en-mexico/#respond" style="display:none;">Cancelar respuesta</a></small></h3><p class="must-log-in">Lo siento, debes estar <a href="https://itmastersmag.com/wp-login.php?redirect_to=https%3A%2F%2Fitmastersmag.com%2Fnoticias-analisis%2Fla-ai-aplicada-a-la-ciber-defensa-puede-ser-la-nueva-gran-promesa%2F">conectado</a> para publicar un comentario.</p>	</div><!-- #respond -->
+	
+</section>
+										</main>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				
+<div id="secondary" class="widget-area" role="complementary">
+			<aside id="news-grid-12" class="widget dw_focus_widget_news_grid">		<div class="">
+							<h2 class="widget-title">									<a href="https://itmastersmag.com/webinars-videos/">IT Masters News</a>
+								</h2>			
+			<div class="news-grid">
+								<div class="row">
+																					<div class="col-sm-12">
+											<article class="post-122594 post type-post status-publish format-video has-post-thumbnail hentry category-analytics-big-data category-machine-learning-ai category-webinars-videos tag-ai tag-chatbots tag-cio tag-ia tag-inteligencia-artificial tag-inteligencia-artificial-mexico tag-inversion-en-inteligencia-artificial tag-it tag-it-masters-news tag-principal tag-robots tag-rpa tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+															<div class="entry-thumbnail"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/"><img width="230" height="129" src="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png" class="attachment-dw-focus-archive size-dw-focus-archive wp-post-image" alt="Inteligencia Artificial" srcset="https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-230x129.png 230w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-300x169.png 300w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-768x432.png 768w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-811x456.png 811w, https://itmastersmag.com/wp-content/uploads/2019/09/vlcsnap-2019-09-13-11h19m38s202-710x400.png 710w" sizes="(max-width: 230px) 100vw, 230px" /></a></div>
+														<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/se-buscan-inversiones-en-inteligencia-artificial/">Se buscan: Inversiones en Inteligencia Artificial</a></h3>
+							<div class="entry-meta">
+																															</div>
+
+															<div class="entry-summary"><p>El dato se ha convertido en el nuevo activo de la economía digital y su explotación inteligente es el reto de todo tipo de organizaciones. Proyectos reales en productivo hay muy pocos. La escasez de talento podría ser una de las principales razones, pero la historia no se acaba ahí.</p>
+</div>
+													</article>
+										</div>
+									</div>
+									<div class="row">
+																	<div class="col-sm-12">
+											<article class="post-addition post-122559 post type-post status-publish format-video has-post-thumbnail hentry category-machine-learning-ai category-webinars-videos tag-ai tag-automatizacion tag-cio tag-desplegar-inteligencia-artificial tag-ia tag-industria-4-0 tag-inteligencia-artificial tag-iot tag-it tag-it-masters-news tag-principal tag-robots tag-tecnologia-de-la-informacion tag-tecnologia-empresarial tag-tecnologias-de-la-informacion tag-video-columna post_format-post-format-video">
+							<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/como-implementar-ai-con-minimos-riesgos/">Cómo implementar AI con mínimos riesgos</a></h3>
+						</article>
+										</div>
+									</div>
+									<div class="row">
+																	<div class="col-sm-12">
+											<article class="post-addition post-122389 post type-post status-publish format-video has-post-thumbnail hentry category-gobierno category-informes-whitepapers category-it-management category-webinars-videos tag-beneficios tag-certificaciones-it tag-cio tag-cuanto-gana-un-cio tag-departamento-de-sistemas tag-director-de-sistemas tag-habilidades tag-informe-de-sueldos-2019 tag-it tag-principal tag-remuneraciones tag-sueldos-it tag-video-columna post_format-post-format-video">
+							<h3 class="entry-title"><a href="https://itmastersmag.com/informes-whitepapers/informe-de-sueldos-it-2020/">Informe de sueldos IT 2020: Un nuevo año de alzas</a></h3>
+						</article>
+										</div>
+									</div>
+									<div class="row">
+																	<div class="col-sm-12">
+											<article class="post-addition post-122348 post type-post status-publish format-video has-post-thumbnail hentry category-cloud category-webinars-videos tag-cloud tag-cloud-computing tag-datos tag-gobernanza tag-it-masters-news tag-nube tag-principal tag-seguridad tag-veritas tag-video-columna post_format-post-format-video">
+							<h3 class="entry-title"><a href="https://itmastersmag.com/webinars-videos/cinco-mitos-sobre-la-nube/">Cinco mitos sobre la nube</a></h3>
+						</article>
+										</div>
+																</div>
+							</div>
+			</div>
+			</aside>
+		<aside class="widget itmas-widget"><!-- /29628924/IM06 -->
+<div id='div-gpt-ad-1549391606868-0' style='height:255px; width:255px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1549391606868-0'); });
+</script>
+</div></aside><aside id="nav_menu-8" class="widget widget_nav_menu"><h2 class="widget-title">Research</h2><ul id="menu-research" class="menu dw-mega-menu-transition-default"><li class="dw-mega-menu-hover item-121932 menu-gana-lo-que-debe-participe-en-la-encuesta-de-sueldos-2020"><a  href="https://es.surveymonkey.com/r/P5F82QP">¿Gana lo que debe? Participe en la Encuesta de Sueldos 2020</a></li>
+<li class="dw-mega-menu-hover item-121933 menu-2o-it-masters-cloud-survey-la-multinube-se-vuelve-norma"><a  href="https://itmastersmag.com/informes-whitepapers/2o-it-masters-cloud-survey-la-multinube-se-vuelve-norma/">2o. IT Masters Cloud Survey: La multinube se vuelve norma</a></li>
+<li class="dw-mega-menu-hover item-121934 menu-it-masters-mind-survey-empoderamiento-y-madurez-digital-actualizado"><a  href="https://itmastersmag.com/informes-whitepapers/it-masters-mind-survey-empoderamiento-y-madurez-digital/">IT Masters Mind Survey: Empoderamiento y madurez digital  *ACTUALIZADO*</a></li>
+</ul></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Secciones</h2><ul id="menu-secciones" class="menu dw-mega-menu-transition-default"><li class="dw-mega-menu-hover item-120544 menu-it-management"><a  href="https://itmastersmag.com/it-management/">IT Management</a></li>
+<li class="dw-mega-menu-hover item-120545 menu-seguridad"><a  href="https://itmastersmag.com/seguridad/">Seguridad</a></li>
+<li class="dw-mega-menu-hover item-120546 menu-innovacion-emprendimiento"><a  href="https://itmastersmag.com/innovacion-emprendimiento/">Innovación &#038; Emprendimiento</a></li>
+<li class="current-post-ancestor active current-post-parent dw-mega-menu-hover item-120548 menu-machine-learning-ai"><a  href="https://itmastersmag.com/machine-learning-ai/">Machine Learning &#038; AI</a></li>
+<li class="dw-mega-menu-hover item-120547 menu-cloud"><a  href="https://itmastersmag.com/cloud/">Cloud</a></li>
+<li class="dw-mega-menu-hover item-120549 menu-gobierno"><a  href="https://itmastersmag.com/gobierno/">Gobierno</a></li>
+<li class="dw-mega-menu-hover item-120550 menu-analytics-big-data"><a  href="https://itmastersmag.com/analytics-big-data/">Analytics &#038; Big Data</a></li>
+<li class="dw-mega-menu-hover item-121261 menu-account"><a  href="https://itmastersmag.com/account/">Account</a></li>
+</ul></aside><aside class="widget itmas-widget"><!-- /29628924/IM05 -->
+<div id='div-gpt-ad-1549394456213-0' style='height:255px; width:255px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1549394456213-0'); });
+</script>
+</div></aside></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			<div class="footer-navigation"><div class="breadcrumbs"><span><span><a href="https://itmastersmag.com/" >Inicio</a> » <strong class="breadcrumb_last" aria-current="page">Cuatro aplicaciones de IA y Machine Learning en México</strong></span></span></div></div>
+<div id="footer-widgets" class="widget-area" role="complementary">
+	<div class="row">
+		<div class="col-lg-3 col-sm-2"><aside id="media_image-3" class="widget widget_media_image"><a href="#"><img width="300" height="145" src="https://itmastersmag.com/wp-content/uploads/2019/01/IT-Masters-mag-300x145.png" class="image wp-image-120504  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://itmastersmag.com/wp-content/uploads/2019/01/IT-Masters-mag-300x145.png 300w, https://itmastersmag.com/wp-content/uploads/2019/01/IT-Masters-mag-768x372.png 768w, https://itmastersmag.com/wp-content/uploads/2019/01/IT-Masters-mag-230x111.png 230w, https://itmastersmag.com/wp-content/uploads/2019/01/IT-Masters-mag.png 803w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside></div>
+		<div class="col-lg-3 col-sm-2"><aside id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Nosotros</h2><ul id="menu-nosotros" class="menu dw-mega-menu-transition-default"><li class="dw-mega-menu-hover item-120607 menu-quienes-somos"><a  href="https://itmastersmag.com/nosotros/">Quiénes somos</a></li>
+<li class="dw-mega-menu-hover item-120852 menu-consejo-editorial"><a  href="https://itmastersmag.com/consejo-editorial/">Consejo Editorial</a></li>
+<li class="dw-mega-menu-hover item-120609 menu-contacto"><a  href="https://itmastersmag.com/contacto/">Contacto</a></li>
+<li class="dw-mega-menu-hover item-120608 menu-aviso-de-privacidad"><a  href="https://itmastersmag.com/aviso-de-privacidad/">Aviso de Privacidad</a></li>
+<li class="dw-mega-menu-hover item-121260 menu-account"><a  href="https://itmastersmag.com/account/">Account</a></li>
+</ul></aside></div>
+		<div class="col-lg-3 col-sm-2"></div>
+		<div class="col-lg-3 col-md-4 col-lg-offset-0 col-md-offset-2 col-sm-5 col-sm-offset-1"></div>
+	</div>
+</div>
+			<div class="row">
+				<div class="site-info col-md-6">
+					Copyright &copy; 2019 by <a href="https://itmastersmag.com">IT Masters Mag</a>.					Theme: <a href="http://www.designwall.com/wordpress/themes/dw-focus/" title="WordPress News Theme">DW Focus</a> by <a href="http://www.designwall.com/" rel="designer">DesignWall</a>.<br>
+					<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+				</div>
+												<div class="site-footer-logo col-md-6 text-right">
+					<a href="https://itmastersmag.com/" rel="home"><img src="//itmastersmag.com/wp-content/uploads/2019/01/IT-Masters-mag.png" title="IT Masters Mag"></a>
+				</div>
+							</div>
+		</div>
+	</footer>
+</div>
+<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='ccbe61fe95d58bb4c2e6a54711f65e29daff34a3340fa2732942071abe499098';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>    <script type="application/javascript">
+      var ajaxurl = "https://itmastersmag.com/wp-admin/admin-ajax.php";
+
+      function sumo_add_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_add_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_remove_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_remove_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_get_woocommerce_cart_subtotal(callback) {
+        jQuery.ajax({
+          method: 'POST',
+          url: ajaxurl,
+          dataType: 'html',
+          data: {
+            action: 'sumo_get_woocommerce_cart_subtotal',
+          },
+          success: function(subtotal) {
+            return callback(null, subtotal);
+          },
+          error: function(err) {
+            return callback(err, 0);
+          }
+        });
+      }
+    </script>
+    <script type='text/javascript' src='https://itmastersmag.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/plugins/dw-mega-menu/assets/js/dw-megamenu.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/plugins/dw-social-share/assets/js/script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-includes/js/comment-reply.min.js?ver=5.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dw_focus = {"ajax_url":"https:\/\/itmastersmag.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-content/themes/dw-focus/assets/js/dw-focus.min.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://itmastersmag.com/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+</body>
+</html>
